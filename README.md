@@ -1,14 +1,14 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+## Research Excercise 1
+
+Conley, Heather. *The new ice curtain: Russia's strategic reach to the Arctic*
+Washington DC: Rowman & Littlefield, 2015.
 
 
-Hi there! Welcome to AWS Cloud9!
+Anderson, Alun. *After the ice : life, death, and geopolitics in the new Arctic*
+New York, NY : Smithsonian Books, 2009.
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+Le Miere, Christian. *Arctic opening: insecurity and opportunity*
+London, UK: Routledge, 2014
 
-Happy coding!
+Beckert, Jens & Bronk, Richard. *Uncertain Futures: Imaginaries, Narratives, and Calculation in the Economy*
+Oxford, UK: Oxford University Press, 2018
