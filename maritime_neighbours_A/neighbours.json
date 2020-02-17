@@ -1,0 +1,1174 @@
+[
+ {
+   "Country": "Abkhazia[2]",
+   "Neighbour": " Georgia,  Russia,  Turkey,  Ukraine"
+ },
+ {
+   "Country": "Adélie Land[3][4] (France)",
+   "Neighbour": "Australian Antarctic Territory[3] (Australia) (2)"
+ },
+ {
+   "Country": " Afghanistan ",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Akrotiri and Dhekelia[5] (United Kingdom)",
+   "Neighbour": "Cyprus (8),  Egypt,  Lebanon"
+ },
+ {
+   "Country": " Albania",
+   "Neighbour": "Greece,  Italy (T)[6],  Montenegro"
+ },
+ {
+   "Country": " Algeria",
+   "Neighbour": " Italy,  Morocco,  Spain,  Tunisia (T)"
+ },
+ {
+   "Country": "American Samoa[7] (United States)",
+   "Neighbour": "Cook Islands[8] (New Zealand) (T)[9],  Niue[10] (New Zealand) (T)[11],  Samoa,  Tokelau[12] (New Zealand) (T)[13],  Tonga"
+ },
+ {
+   "Country": "Amsterdam Island and Île Saint-Paul[4] (France)",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Andorra ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Angola",
+   "Neighbour": "Democratic Republic of the Congo (2),  Republic of the Congo,  Namibia (T)"
+ },
+ {
+   "Country": "Anguilla[5] (United Kingdom)",
+   "Neighbour": "Antigua and Barbuda,  Netherlands,  Saint Martin[14] (France) (T)[15],  United States Virgin Islands[7] (United States) (T)[16]"
+ },
+ {
+   "Country": "Antártica Chilena Province[3] (Chile)",
+   "Neighbour": "Argentine Antarctica[3][17] (Argentina),  British Antarctic Territory[3][17] (United Kingdom),  Peter I Island[3] (Norway)"
+ },
+ {
+   "Country": " Antigua and Barbuda",
+   "Neighbour": "Anguilla[5] (United Kingdom),  Guadeloupe[18] (France),  Montserrat[5] (United Kingdom),  Saint Kitts and Nevis,  Saint Barthélemy[14] (France)"
+ },
+ {
+   "Country": " Argentina",
+   "Neighbour": "Chile (J)[19] (T)[20],  Falkland Islands[5][21] (United Kingdom),  Uruguay (T)"
+ },
+ {
+   "Country": "Argentine Antarctica[3] (Argentina)",
+   "Neighbour": "Antártica Chilena Province[3][17] (Chile),  British Antarctic Territory[3][17] (United Kingdom)"
+ },
+ {
+   "Country": " Armenia ",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Artsakh[22]",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Aruba[23] (Netherlands)",
+   "Neighbour": "Dominican Republic,  Venezuela (T)[24]"
+ },
+ {
+   "Country": "Ashmore and Cartier Islands[25] (Australia)",
+   "Neighbour": " Indonesia (T)"
+ },
+ {
+   "Country": " Australia, →includes:, → Ashmore and Cartier Islands, → Christmas Island, → Cocos (Keeling) Islands, → Heard Island and McDonald Islands, → Macquarie Island, → Norfolk Island",
+   "Neighbour": "East Timor (T)[26],  Indonesia (4) (T),  Kerguelen Islands[4] (France) (T)[27],  New Caledonia[28](France) (T)[27],  New Zealand (2) (T)[29],  Papua New Guinea (2) (T),  Solomon Islands (T)[30]"
+ },
+ {
+   "Country": " Australia (excluding outlying island territories)",
+   "Neighbour": "East Timor (T)[26],  Indonesia (2) (T),  New Caledonia[28] (France) (T)[27],  New Zealand (T)[29],  Papua New Guinea (2) (T),  Solomon Islands (T)[30]"
+ },
+ {
+   "Country": "Australian Antarctic Territory[3] (Australia)",
+   "Neighbour": "Adélie Land[3] (France) (2),  Queen Maud Land[3] (Norway),  Ross Dependency[3] (New Zealand)"
+ },
+ {
+   "Country": " Austria ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Azerbaijan",
+   "Neighbour": "Iran[31],  Russia[31],  Turkmenistan[31]"
+ },
+ {
+   "Country": "Azores[32] (Portugal)",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Bahamas",
+   "Neighbour": "Cuba,  Haiti,  Turks and Caicos Islands[5] (United Kingdom),  United States"
+ },
+ {
+   "Country": " Bahrain",
+   "Neighbour": " Iran (T),  Qatar (J),  Saudi Arabia (T)"
+ },
+ {
+   "Country": "Baker Island[7] and Howland Island[7] (United States)",
+   "Neighbour": " Kiribati"
+ },
+ {
+   "Country": " Bangladesh",
+   "Neighbour": " Burma,  India"
+ },
+ {
+   "Country": " Barbados",
+   "Neighbour": "Guadeloupe[18] (France) (T),  Martinique[18] (France) (T),  Saint Lucia,  Saint Vincent and the Grenadines,  Trinidad and Tobago (J)[33]"
+ },
+ {
+   "Country": "Bassas da India, Europa Island, and Juan de Nova Island[4][34] (France)",
+   "Neighbour": " Madagascar,  Mauritius"
+ },
+ {
+   "Country": " Belarus ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Belgium",
+   "Neighbour": " France (T),  Netherlands (T),  United Kingdom (T)"
+ },
+ {
+   "Country": " Belize",
+   "Neighbour": " Guatemala,  Honduras,  Mexico"
+ },
+ {
+   "Country": " Benin",
+   "Neighbour": " Ghana,  Nigeria,  Togo"
+ },
+ {
+   "Country": "Bermuda[5] (United Kingdom)",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Bhutan ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Bolivia ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Bosnia and Herzegovina",
+   "Neighbour": " Croatia (T)"
+ },
+ {
+   "Country": " Botswana ",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Bouvet Island[35]",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Brazil",
+   "Neighbour": "French Guiana[18] (France) (T),  Uruguay (T)"
+ },
+ {
+   "Country": "British Antarctic Territory[3] (United Kingdom)",
+   "Neighbour": "Antártica Chilena Province[3][17] (Chile),  Argentine Antarctica[3][17] (Argentina),  Queen Maud Land[3] (Norway)"
+ },
+ {
+   "Country": "British Indian Ocean Territory[5][36] (United Kingdom)",
+   "Neighbour": " Maldives"
+ },
+ {
+   "Country": "British Virgin Islands[5] (United Kingdom)",
+   "Neighbour": "Puerto Rico[7] (United States) (T)[16],  United States Virgin Islands[7] (United States) (T)[16]"
+ },
+ {
+   "Country": " Brunei",
+   "Neighbour": "Malaysia (2)"
+ },
+ {
+   "Country": " Bulgaria",
+   "Neighbour": " Romania,  Turkey (T)"
+ },
+ {
+   "Country": " Burkina Faso ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Burma",
+   "Neighbour": " Bangladesh,  India (T),  Thailand (T)"
+ },
+ {
+   "Country": " Burundi ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Cambodia",
+   "Neighbour": " Thailand,  Vietnam"
+ },
+ {
+   "Country": " Cameroon",
+   "Neighbour": " Equatorial Guinea,  Nigeria (J) (T)"
+ },
+ {
+   "Country": " Canada",
+   "Neighbour": "Greenland[37] (Denmark) (T),  Saint Pierre and Miquelon[14] (France) (J)[38] (T),  United States (4) (J)[39] (T)"
+ },
+ {
+   "Country": " Cape Verde",
+   "Neighbour": "The Gambia,  Mauritania (T)[40],  Senegal (T)[41]"
+ },
+ {
+   "Country": "Cayman Islands[5] (United Kingdom)",
+   "Neighbour": "Colombia,  Cuba,  Honduras (T)[42],  Jamaica"
+ },
+ {
+   "Country": " Central African Republic ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Chad ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Chile",
+   "Neighbour": "Argentina (J)[19] (T)[20],  Peru (J)[43] (T)"
+ },
+ {
+   "Country": "People's Republic of China[44]",
+   "Neighbour": "Hong Kong[45] (China) (2),  Japan,  North Korea,  South Korea,  Macau[46] (China) (2),  Philippines,  Vietnam (T),  Taiwan"
+ },
+ {
+   "Country": "Christmas Island[25] (Australia)",
+   "Neighbour": " Indonesia (T)"
+ },
+ {
+   "Country": "Clipperton Island[47] (France)",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Cocos (Keeling) Islands[25] (Australia)",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Colombia",
+   "Neighbour": "Cayman Islands[5] (United Kingdom),  Costa Rica (2) (T),  Dominican Republic (T),  Ecuador (T),  Haiti (T)[48],  Honduras (T),  Jamaica (T),  Nicaragua (J),  Panama (2) (T),  Venezuela"
+ },
+ {
+   "Country": " Comoros",
+   "Neighbour": "Glorioso Islands[4][49] (France),  Madagascar,  Mayotte[14] (France),  Mozambique,  Réunion[18] (France),  Seychelles,  Tanzania"
+ },
+ {
+   "Country": " Democratic Republic of the Congo",
+   "Neighbour": "Angola (2)"
+ },
+ {
+   "Country": " Republic of the Congo",
+   "Neighbour": " Angola,  Gabon"
+ },
+ {
+   "Country": "Cook Islands[8] (New Zealand)",
+   "Neighbour": "American Samoa[7] (United States) (T)[9],  French Polynesia[14] (France) (T)[50],  Kiribati,  Niue[10] (New Zealand),  Tokelau[12] (New Zealand)"
+ },
+ {
+   "Country": " Costa Rica",
+   "Neighbour": "Colombia (2) (T),  Ecuador (T),  Nicaragua (2),  Panama (2) (T)"
+ },
+ {
+   "Country": " Côte d'Ivoire",
+   "Neighbour": " Ghana,  Liberia"
+ },
+ {
+   "Country": " Croatia",
+   "Neighbour": " Bosnia and Herzegovina (T),  Italy (T),  Montenegro,  Slovenia"
+ },
+ {
+   "Country": "Crozet Islands[4] (France)",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Cuba",
+   "Neighbour": "Bahamas,  Cayman Islands[5] (United Kingdom),  Haiti (T)[51],  Honduras,  Jamaica (T)[52],  Mexico (T),  Navassa Island[7][53] (United States),  United States (T)[54]"
+ },
+ {
+   "Country": "Curaçao[23] (Netherlands)",
+   "Neighbour": "Dominican Republic,  Venezuela (T)[24]"
+ },
+ {
+   "Country": " Cyprus",
+   "Neighbour": "Akrotiri and Dhekelia[5] (United Kingdom) (8) (T),  Egypt (T),  Greece (T),  Israel,  Lebanon,  Syria,  Turkey (T)"
+ },
+ {
+   "Country": " Czech Republic ",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Denmark[55]",
+   "Neighbour": "Germany (2) (J) (T),  Norway (T),  Poland,  Sweden (T),  United Kingdom (T)"
+ },
+ {
+   "Country": " Denmark, Kingdom of, →includes:, → Denmark, → Faroe Islands, → Greenland",
+   "Neighbour": "Canada (T),  Germany (2) (J) (T),  Iceland (2) (T),  Jan Mayen[56] (Norway) (J) (T),  Norway (T),  Poland,  Svalbard[56] (Norway) (T),  Sweden (2) (T),  United Kingdom (2) (T)"
+ },
+ {
+   "Country": " Djibouti",
+   "Neighbour": " Eritrea,  Somalia,  Yemen"
+ },
+ {
+   "Country": " Dominica",
+   "Neighbour": "Guadeloupe[18] (France) (T)[57],  Martinique[18] (France) (T)[57],  Venezuela"
+ },
+ {
+   "Country": " Dominican Republic",
+   "Neighbour": "Colombia (T),  Haiti (2),  Aruba[23] (Netherlands),  Curaçao[23] (Netherlands),  Puerto Rico[7] (United States),  Turks and Caicos Islands[5] (United Kingdom) (T)[58],  Venezuela (T)"
+ },
+ {
+   "Country": " East Timor",
+   "Neighbour": "Australia (T)[26],  Indonesia (3)"
+ },
+ {
+   "Country": " Ecuador",
+   "Neighbour": " Colombia,  Costa Rica (T),  Peru (T)"
+ },
+ {
+   "Country": " Egypt",
+   "Neighbour": "Cyprus (T),  Palestine[59],  Greece,  Israel,  Jordan,  Libya,  Saudi Arabia,  Sudan,  Turkey"
+ },
+ {
+   "Country": " El Salvador",
+   "Neighbour": " Guatemala,  Honduras (J),  Nicaragua"
+ },
+ {
+   "Country": " Equatorial Guinea",
+   "Neighbour": "Cameroon,  Gabon (2) (T),  Nigeria (T)[60],  São Tomé and Príncipe (2) (T)[61]"
+ },
+ {
+   "Country": " Eritrea",
+   "Neighbour": "Djibouti,  Saudi Arabia,  Sudan,  Yemen (J)[62]"
+ },
+ {
+   "Country": " Estonia",
+   "Neighbour": " Finland (T),  Latvia (T),  Russia,  Sweden (T)"
+ },
+ {
+   "Country": " Eswatini (Swaziland) ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Ethiopia ",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Europa Island, Bassas da India, and Juan de Nova Island[4][34] (France)",
+   "Neighbour": " Madagascar,  Mauritius"
+ },
+ {
+   "Country": "Falkland Islands[5][21] (United Kingdom)",
+   "Neighbour": " Argentina"
+ },
+ {
+   "Country": "Faroe Islands[37] (Denmark)",
+   "Neighbour": " Iceland,  Norway (T),  United Kingdom (T)"
+ },
+ {
+   "Country": " Fiji",
+   "Neighbour": "New Caledonia[28] (France) (T)[63],  New Zealand,  Tonga,  Tuvalu,  Vanuatu,  Wallis and Futuna[14] (France) (T)[63]"
+ },
+ {
+   "Country": " Finland",
+   "Neighbour": " Estonia (T),  Russia (T),  Sweden (T)"
+ },
+ {
+   "Country": "France[64]",
+   "Neighbour": "Belgium (T),  Guernsey[65] (United Kingdom),  Italy (T),  Jersey[65] (United Kingdom),  Monaco (2) (T),  Spain (2) (T),  United Kingdom (J) (T)"
+ },
+ {
+   "Country": "France (including French overseas departments, collectivities, and territories), →includes:, → Clipperton Island, → French Guiana, → French Polynesia, → French Southern and Antarctic Lands[66], → Guadeloupe, → Martinique, → Mayotte, → New Caledonia, → Réunion, → Saint Barthélemy, → Saint Martin, → Saint Pierre and Miquelon, → Wallis and Futuna",
+   "Neighbour": "Anguilla[5] (United Kingdom) (T)[15],  Antigua and Barbuda (2),  Australia (T)[27],  Barbados (2) (T),  Belgium (T),  Brazil (T),  Canada (J)[38] (T),  Comoros (3),  Cook Islands[8] (New Zealand) (T)[50],  Dominica (2) (T)[57],  Fiji (2) (T)[63],  Guernsey[65] (United Kingdom),  Heard Island and McDonald Islands[25] (Australia) (T)[27],  Italy (T),  Jersey[65] (United Kingdom),  Kiribati,  Madagascar (3) (T),  Mauritius (2) (T)[67],  Monaco (2) (T),  Montserrat[5] (United Kingdom) (T)[15],  Mozambique (2),  Netherlands,  Norfolk Island[25] (Australia) (T)[27],  Papua New Guinea,  Pitcairn Islands[5] (United Kingdom) (T)[68],  Saint Kitts and Nevis,  Saint Lucia (T)[69],  Samoa,  Seychelles (T)[70],  Sint Maarten[23] (Netherlands),  Solomon Islands (T)[71],  Spain (2) (T),  Suriname,  Tokelau[12] (New Zealand),  Tonga (T)[72],  Tuvalu (T)[73],  United Kingdom (J) (T),  Vanuatu,  Venezuela (2) (T)"
+ },
+ {
+   "Country": "French Guiana[18] (France)",
+   "Neighbour": " Brazil (T),  Suriname"
+ },
+ {
+   "Country": "French Polynesia[14] (France)",
+   "Neighbour": "Cook Islands[8] (New Zealand) (T)[50],  Kiribati,  Pitcairn Islands[5] (United Kingdom) (T)[68]"
+ },
+ {
+   "Country": "French Southern and Antarctic Lands[66][74] (France)",
+   "Neighbour": "Heard Island and McDonald Islands[25] (Australia) (T)[27],  Comoros,  Madagascar,  Mauritius,  Mozambique,  Seychelles (T)[70]"
+ },
+ {
+   "Country": " Gabon",
+   "Neighbour": "Republic of the Congo,  Equatorial Guinea (2) (T),  São Tomé and Príncipe (T)[75]"
+ },
+ {
+   "Country": " The Gambia",
+   "Neighbour": "Cape Verde,  Senegal (2) (T)"
+ },
+ {
+   "Country": " Georgia",
+   "Neighbour": " Russia,  Turkey (T),  Ukraine"
+ },
+ {
+   "Country": " Germany",
+   "Neighbour": "Denmark (2) (J) (T),  Netherlands (J) (T),  Poland (T),  Sweden (T),  United Kingdom (T)"
+ },
+ {
+   "Country": " Ghana",
+   "Neighbour": " Benin,  Côte d'Ivoire,  Nigeria,  Togo"
+ },
+ {
+   "Country": "Gibraltar[5] (United Kingdom)",
+   "Neighbour": "Morocco,  Spain (2)"
+ },
+ {
+   "Country": "Glorioso Islands[4][49] (France)",
+   "Neighbour": "Comoros,  Madagascar,  Seychelles (T)[70]"
+ },
+ {
+   "Country": " Greece",
+   "Neighbour": " Albania,  Cyprus (T),  Egypt,  Italy (T),  Libya,  Turkey (J)"
+ },
+ {
+   "Country": "Greenland[37] (Denmark)",
+   "Neighbour": "Canada (T),  Iceland (T),  Jan Mayen[56] (Norway) (J) (T),  Svalbard[56] (Norway) (T)"
+ },
+ {
+   "Country": " Grenada",
+   "Neighbour": " Saint Vincent and the Grenadines,  Trinidad and Tobago"
+ },
+ {
+   "Country": "Guadeloupe[18] (France)",
+   "Neighbour": "Antigua and Barbuda,  Barbados (T),  Dominica (T)[57],  Montserrat[5] (United Kingdom) (T)[15],  Venezuela (T)"
+ },
+ {
+   "Country": "Guam[7] (United States)",
+   "Neighbour": " Federated States of Micronesia"
+ },
+ {
+   "Country": " Guatemala",
+   "Neighbour": "Belize,  El Salvador,  Honduras,  Mexico (2) (T)"
+ },
+ {
+   "Country": "Guernsey[65] (United Kingdom)",
+   "Neighbour": "France,  Jersey[65] (United Kingdom)"
+ },
+ {
+   "Country": " Guinea",
+   "Neighbour": " Guinea-Bissau (J),  Sierra Leone"
+ },
+ {
+   "Country": " Guinea-Bissau",
+   "Neighbour": " Guinea (J),  Senegal (J) (T)"
+ },
+ {
+   "Country": " Guyana",
+   "Neighbour": " Suriname (J),  Trinidad and Tobago,  Venezuela"
+ },
+ {
+   "Country": " Haiti",
+   "Neighbour": "Bahamas,  Colombia (T)[48],  Cuba (T)[51],  Dominican Republic (2),  Jamaica,  Navassa Island[7][53] (United States),  Turks and Caicos Islands[5] (United Kingdom)"
+ },
+ {
+   "Country": "Heard Island and McDonald Islands[25] (Australia)",
+   "Neighbour": "Kerguelen Islands[4] (France) (T)[27]"
+ },
+ {
+   "Country": " Honduras",
+   "Neighbour": "Belize,  Cayman Islands[5] (United Kingdom) (T)[42],  Colombia (T),  Cuba,  El Salvador (J),  Guatemala,  Mexico (T),  Nicaragua (2) (J)"
+ },
+ {
+   "Country": "Hong Kong[45] (People's Republic of China)",
+   "Neighbour": "People's Republic of China (2)"
+ },
+ {
+   "Country": "Howland Island[7] and Baker Island[7] (United States)",
+   "Neighbour": " Kiribati"
+ },
+ {
+   "Country": " Hungary ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Iceland",
+   "Neighbour": "Faroe Islands[37] (Denmark),  Greenland[37] (Denmark) (T),  Jan Mayen[56] (Norway) (T)"
+ },
+ {
+   "Country": "Île Saint-Paul and Amsterdam Island[4] (France)",
+   "Neighbour": ""
+ },
+ {
+   "Country": " India",
+   "Neighbour": " Bangladesh,  Myanmar (T),  Indonesia (T),  Maldives (T),  Pakistan,  Sri Lanka (T),  Thailand (T)"
+ },
+ {
+   "Country": " Indonesia",
+   "Neighbour": "Ashmore and Cartier Islands[25] (Australia) (T),  Australia (2) (T),  Christmas Island[25] (Australia) (T),  East Timor (3),  India (T),  Malaysia (3) (J) (T),  Palau,  Papua New Guinea (2) (T),  Philippines,  Singapore (T),  Thailand (T),  Vietnam (T)"
+ },
+ {
+   "Country": " Iran",
+   "Neighbour": "Azerbaijan[31],  Bahrain (T),  Iraq,  Kuwait,  Oman (2) (T),  Pakistan,  Qatar (T),  Saudi Arabia (T),  Turkmenistan[31],  United Arab Emirates (2) (T)"
+ },
+ {
+   "Country": " Iraq",
+   "Neighbour": " Iran,  Kuwait (J)"
+ },
+ {
+   "Country": " Ireland",
+   "Neighbour": " United Kingdom (T)"
+ },
+ {
+   "Country": "Isle of Man[65] (United Kingdom)",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Israel",
+   "Neighbour": " Cyprus,  Egypt,  Palestine,  Jordan (T),  Lebanon"
+ },
+ {
+   "Country": " Italy",
+   "Neighbour": "Albania (T)[6],  Algeria,  Croatia (T),  France (T),  Greece (T),  Libya,  Malta,  Montenegro (T),  Slovenia (T),  Spain (T),  Tunisia (T)[77]"
+ },
+ {
+   "Country": " Jamaica",
+   "Neighbour": "Cayman Islands[5] (United Kingdom),  Colombia (T),  Cuba (T)[52],  Haiti,  Navassa Island[7][53] (United States)"
+ },
+ {
+   "Country": "Jan Mayen[56] (Norway)",
+   "Neighbour": "Greenland[37] (Denmark) (J) (T),  Iceland (T)"
+ },
+ {
+   "Country": " Japan",
+   "Neighbour": "People's Republic of China,  North Korea,  South Korea (T),  Northern Mariana Islands[7] (United States),  Philippines,  Russia (T)[78],  Taiwan"
+ },
+ {
+   "Country": "Jarvis Island[7] (United States)",
+   "Neighbour": " Kiribati"
+ },
+ {
+   "Country": "Jersey[65]",
+   "Neighbour": "France,  Guernsey[65] (United Kingdom)"
+ },
+ {
+   "Country": "Johnston Atoll[7] (United States)",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Jordan",
+   "Neighbour": " Egypt,  Israel (T),  Saudi Arabia"
+ },
+ {
+   "Country": "Juan de Nova Island, Bassas da India, and Europa Island[4][34] (France)",
+   "Neighbour": " Madagascar,  Mauritius"
+ },
+ {
+   "Country": " Kazakhstan",
+   "Neighbour": "Russia[31],  Turkmenistan[31]"
+ },
+ {
+   "Country": " Kenya",
+   "Neighbour": " Somalia,  Tanzania (T)"
+ },
+ {
+   "Country": "Kerguelen Islands[4] (France)",
+   "Neighbour": "Heard Island and McDonald Islands[25] (Australia) (T)[27]"
+ },
+ {
+   "Country": "Kingman Reef[7] and Palmyra Atoll[7] (United States)",
+   "Neighbour": " Kiribati"
+ },
+ {
+   "Country": " Kiribati",
+   "Neighbour": "Cook Islands[8] (New Zealand),  French Polynesia[14] (France),  Howland Island[7] and Baker Island[7] (United States),  Jarvis Island[7] (United States),  Kingman Reef[7] and Palmyra Atoll[7] (United States),  Marshall Islands,  Nauru,  Tokelau[12] (New Zealand),  Tuvalu"
+ },
+ {
+   "Country": " North Korea",
+   "Neighbour": "People's Republic of China,  Japan,  South Korea (2),  Russia (T)"
+ },
+ {
+   "Country": " South Korea",
+   "Neighbour": "People's Republic of China,  Japan (T),  North Korea (2)"
+ },
+ {
+   "Country": "Kosovo[79]",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Kuwait",
+   "Neighbour": " Iran,  Iraq (J),  Saudi Arabia (T)"
+ },
+ {
+   "Country": " Kyrgyzstan ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Laos ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Latvia",
+   "Neighbour": " Estonia (T),  Lithuania,  Sweden (T)"
+ },
+ {
+   "Country": " Lebanon",
+   "Neighbour": "Akrotiri and Dhekelia[5] (United Kingdom),  Cyprus,  Israel,  Syria"
+ },
+ {
+   "Country": " Lesotho ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Liberia",
+   "Neighbour": " Côte d'Ivoire,  Sierra Leone"
+ },
+ {
+   "Country": " Libya",
+   "Neighbour": " Egypt,  Greece,  Italy,  Malta (J) (T),  Tunisia (J) (T)"
+ },
+ {
+   "Country": " Liechtenstein ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Lithuania",
+   "Neighbour": " Latvia,  Russia (T),  Sweden (T)"
+ },
+ {
+   "Country": " Luxembourg ",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Macau[46] (People's Republic of China)",
+   "Neighbour": "People's Republic of China (2)"
+ },
+ {
+   "Country": "Macquarie Island[25] (Australia)",
+   "Neighbour": "New Zealand (T)[29]"
+ },
+ {
+   "Country": " Madagascar",
+   "Neighbour": "Comoros,  French Southern and Antarctic Lands[74][80][81][82] (France),  Mayotte[14] (France),  Mozambique,  Réunion[18] (France) (T),  Seychelles"
+ },
+ {
+   "Country": "Madeira[32] (Portugal)",
+   "Neighbour": " Morocco,  Spain (T)"
+ },
+ {
+   "Country": " Malawi ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Malaysia",
+   "Neighbour": "Brunei (2),  Indonesia (3) (J) (T),  Philippines,  Singapore (J) (T)[83],  Thailand (2) (T),  Vietnam"
+ },
+ {
+   "Country": " Maldives",
+   "Neighbour": "British Indian Ocean Territory[5][36] (United Kingdom),  India (T),  Sri Lanka (T)"
+ },
+ {
+   "Country": " Mali ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Malta",
+   "Neighbour": " Italy,  Libya (J) (T)"
+ },
+ {
+   "Country": " Marshall Islands",
+   "Neighbour": "Kiribati,  Federated States of Micronesia (T)[84],  Nauru,  Wake Island[85] (United States)"
+ },
+ {
+   "Country": "Martinique[18] (France)",
+   "Neighbour": "Barbados (T),  Dominica (T)[57],  Saint Lucia[69],  Venezuela (T)"
+ },
+ {
+   "Country": " Mauritania",
+   "Neighbour": "Cape Verde (T)[40],  Senegal,  Western Sahara[86] (T)[87]"
+ },
+ {
+   "Country": " Mauritius",
+   "Neighbour": "Réunion[18] (France) (T)[67],  Seychelles (T),  Tromelin Island[4][82] (France)"
+ },
+ {
+   "Country": "Mayotte[14] (France)",
+   "Neighbour": " Comoros,  Madagascar"
+ },
+ {
+   "Country": " Mexico",
+   "Neighbour": "Belize,  Cuba (T),  Guatemala (2) (T),  Honduras (T),  United States (2) (T)"
+ },
+ {
+   "Country": " Federated States of Micronesia",
+   "Neighbour": "Guam[7] (United States),  Marshall Islands (T)[84],  Palau (T),  Papua New Guinea"
+ },
+ {
+   "Country": "Midway Atoll[7] (United States)",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Moldova ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Monaco",
+   "Neighbour": "France (2) (T)"
+ },
+ {
+   "Country": " Mongolia ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Montenegro",
+   "Neighbour": " Albania,  Croatia,  Italy (T)"
+ },
+ {
+   "Country": "Montserrat[5] (United Kingdom)",
+   "Neighbour": "Antigua and Barbuda,  Guadeloupe[18] (France) (T)[15],  Saint Kitts and Nevis,  Venezuela"
+ },
+ {
+   "Country": " Morocco",
+   "Neighbour": "Algeria,  Madeira[32] (Portugal),  Portugal,  Spain (4),  Western Sahara[86]"
+ },
+ {
+   "Country": " Mozambique",
+   "Neighbour": "Comoros,  French Southern and Antarctic Lands[74][88] (France),  Madagascar,  Réunion[18] (France),  South Africa,  Tanzania (T)"
+ },
+ {
+   "Country": " Namibia",
+   "Neighbour": " Angola (T),  South Africa (T)"
+ },
+ {
+   "Country": " Nauru",
+   "Neighbour": " Kiribati,  Marshall Islands"
+ },
+ {
+   "Country": "Navassa Island[7][53] (United States)",
+   "Neighbour": " Cuba,  Haiti,  Jamaica"
+ },
+ {
+   "Country": "   Nepal ",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Netherlands[89]",
+   "Neighbour": "Anguilla[5] (United Kingdom),  Belgium (T),  Germany (J) (T),  United Kingdom (T),  Venezuela (T)[24],  Saint Barthélemy[14] (France),  Saint Martin[14] (France) (2),  Saint Kitts and Nevis,  United States Virgin Islands[7] (United States)"
+ },
+ {
+   "Country": " Netherlands, Kingdom of the, →includes:, → Aruba, → Curaçao, → Netherlands, → Sint Maarten",
+   "Neighbour": "Anguilla[5] (United Kingdom),  Belgium (T),  Dominican Republic,  Germany (T),  Guadeloupe[18] (France),  Saint Barthélemy[14] (France),  Saint Martin[14] (France) (2),  Saint Kitts and Nevis,  United Kingdom (T),  United States Virgin Islands[7] (United States),  Venezuela (T)[24]"
+ },
+ {
+   "Country": "New Caledonia[28] (France)",
+   "Neighbour": "Australia (T)[27],  Fiji (T)[63],  Norfolk Island (Australia) (T)[27],  Papua New Guinea,  Solomon Islands (T)[71],  Vanuatu"
+ },
+ {
+   "Country": "New Zealand[90]",
+   "Neighbour": "Australia[91] (T)[29],  Fiji,  Macquarie Island[25] (Australia) (T)[29],  Norfolk Island[25][91] (Australia) (T)[29],  Tonga"
+ },
+ {
+   "Country": " New Zealand, Realm of, →includes:, → Cook Islands, → New Zealand, → Niue, → Tokelau",
+   "Neighbour": "American Samoa[7] (United States) (3) (T)[9][11][13],  Australia[91] (T)[29],  Fiji,  French Polynesia[14] (France) (T)[50],  Kiribati,  Macquarie Island[25] (Australia) (T)[29],  Norfolk Island[25][91] (Australia) (T)[29],  Samoa,  Tonga,  Wallis and Futuna[14] (France)"
+ },
+ {
+   "Country": " Nicaragua",
+   "Neighbour": "Colombia (J),  Costa Rica (2),  El Salvador,  Honduras (2) (J)"
+ },
+ {
+   "Country": " Niger ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Nigeria",
+   "Neighbour": "Benin,  Cameroon (J) (T),  Equatorial Guinea (T)[60],  Ghana,  São Tomé and Príncipe (T)[92]"
+ },
+ {
+   "Country": "Niue[10] (New Zealand)",
+   "Neighbour": "American Samoa[7] (United States) (T)[11],  Cook Islands[8] (New Zealand),  Tonga"
+ },
+ {
+   "Country": "Norfolk Island[25] (Australia)",
+   "Neighbour": "New Caledonia[28] (France) (T)[27],  New Zealand (T)[29]"
+ },
+ {
+   "Country": " North Macedonia ",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Northern Cyprus[93]",
+   "Neighbour": "Cyprus (2),  Syria,  Turkey"
+ },
+ {
+   "Country": "Northern Mariana Islands[7] (United States)",
+   "Neighbour": " Japan"
+ },
+ {
+   "Country": "Norway[94]",
+   "Neighbour": "Denmark (T),  Faroe Islands[37] (Denmark) (T),  Russia (T),  Sweden (T),  United Kingdom (J) (T)"
+ },
+ {
+   "Country": " Norway, Kingdom of (plus dependent Norwegian territories), →includes:, → Bouvet Island, → Jan Mayen, → Norway, → Svalbard",
+   "Neighbour": "Denmark (T),  Faroe Islands[37] (Denmark) (T),  Greenland[37] (Denmark) (J) (T),  Iceland,  Russia (T),  Sweden (T),  United Kingdom (J) (T)"
+ },
+ {
+   "Country": " Oman",
+   "Neighbour": "Iran (2) (T),  Pakistan (T),  United Arab Emirates (3),  Yemen (T)"
+ },
+ {
+   "Country": " Pakistan",
+   "Neighbour": " India,  Iran,  Oman (T)"
+ },
+ {
+   "Country": " Palau",
+   "Neighbour": " Indonesia,  Federated States of Micronesia (T),  Philippines"
+ },
+ {
+   "Country": "Palestine[59]",
+   "Neighbour": " Egypt,  Israel"
+ },
+ {
+   "Country": "Palmyra Atoll[7] and Kingman Reef[7] (United States)",
+   "Neighbour": " Kiribati"
+ },
+ {
+   "Country": " Panama",
+   "Neighbour": "Colombia (2) (T),  Costa Rica (2) (T)"
+ },
+ {
+   "Country": " Papua New Guinea",
+   "Neighbour": "Australia (2) (T),  Indonesia (2) (T),  Federated States of Micronesia,  New Caledonia[28] (France),  Solomon Islands (T)[95]"
+ },
+ {
+   "Country": " Paraguay ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Peru",
+   "Neighbour": "Chile (J)[43] (T),  Ecuador (T)"
+ },
+ {
+   "Country": "Peter I Island[3]",
+   "Neighbour": "Antártica Chilena Province[3] (Chile)"
+ },
+ {
+   "Country": " Philippines",
+   "Neighbour": " People's Republic of China,  Indonesia,  Japan,  Malaysia,  Palau,  Vietnam,  Taiwan"
+ },
+ {
+   "Country": "Pitcairn Islands[5] (United Kingdom)",
+   "Neighbour": "French Polynesia[14] (France) (T)[68]"
+ },
+ {
+   "Country": " Poland",
+   "Neighbour": " Denmark,  Germany (T),  Russia (T),  Sweden (T)"
+ },
+ {
+   "Country": "Portugal[96]",
+   "Neighbour": "Morocco (2),  Spain (3) (T)"
+ },
+ {
+   "Country": "Puerto Rico[7] (United States)",
+   "Neighbour": "British Virgin Islands[5] (United Kingdom),  Dominican Republic,  Venezuela (T)[97]"
+ },
+ {
+   "Country": " Qatar",
+   "Neighbour": "Bahrain (J),  Iran (2) (T),  Saudi Arabia (2) (T),  United Arab Emirates (T)"
+ },
+ {
+   "Country": "Queen Maud Land[3] (Norway)",
+   "Neighbour": "Australian Antarctic Territory[3] (Australia),  British Antarctic Territory[3] (United Kingdom)"
+ },
+ {
+   "Country": "Réunion[18] (France)",
+   "Neighbour": "Comoros,  Madagascar (T),  Mauritius (T)[67],  Mozambique"
+ },
+ {
+   "Country": " Romania",
+   "Neighbour": "Bulgaria,  Turkey,  Ukraine (J)[98]"
+ },
+ {
+   "Country": "Ross Dependency[3] (New Zealand)",
+   "Neighbour": "Australian Antarctic Territory[3] (Australia)"
+ },
+ {
+   "Country": " Russia",
+   "Neighbour": "Azerbaijan[31],  Estonia,  Finland (T),  Georgia,  Japan (T)[78],  Kazakhstan[31],  North Korea (T),  Lithuania (T),  Norway (T),  Poland (T),  Sweden (T),  Turkey (T),  Ukraine,  United States (T)[99]"
+ },
+ {
+   "Country": " Rwanda ",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Saint Barthélemy[14] (France)",
+   "Neighbour": "Antigua and Barbuda,  Netherlands,  Saint Kitts and Nevis,  Sint Maarten[23] (Netherlands)"
+ },
+ {
+   "Country": "Saint Helena, Ascension and Tristan da Cunha[5] (United Kingdom)",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Saint Kitts and Nevis",
+   "Neighbour": "Antigua and Barbuda,  Montserrat[5] (United Kingdom),  Netherlands,  Saint Barthélemy[14] (France),  Venezuela"
+ },
+ {
+   "Country": " Saint Lucia",
+   "Neighbour": "Barbados,  Martinique[18] (France) (T)[69],  Saint Vincent and the Grenadines,  Venezuela"
+ },
+ {
+   "Country": "Saint Martin[14]",
+   "Neighbour": "Netherlands,  Anguilla[5] (United Kingdom) (T)[15],  Sint Maarten[23] (Netherlands)"
+ },
+ {
+   "Country": "Saint Pierre and Miquelon[14] (France)",
+   "Neighbour": "Canada (J)[38] (T)"
+ },
+ {
+   "Country": " Saint Vincent and the Grenadines",
+   "Neighbour": " Barbados,  Grenada,  Saint Lucia,  Trinidad and Tobago,  Venezuela"
+ },
+ {
+   "Country": " Samoa",
+   "Neighbour": "American Samoa[7] (United States),  Tokelau[12] (New Zealand),  Tonga,  Wallis and Futuna[14] (France)"
+ },
+ {
+   "Country": " San Marino ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " São Tomé and Príncipe",
+   "Neighbour": "Equatorial Guinea (2) (T)[61],  Gabon (T)[75],  Nigeria (T)[92]"
+ },
+ {
+   "Country": " Saudi Arabia",
+   "Neighbour": "Bahrain (T),  Egypt,  Eritrea,  Iran (T),  Jordan,  Kuwait (T),  Qatar (2) (T),  Sudan,  United Arab Emirates (T)[100],  Yemen (T)"
+ },
+ {
+   "Country": " Senegal",
+   "Neighbour": "Cape Verde (T)[41],  The Gambia (2) (T),  Guinea-Bissau (J) (T),  Mauritania"
+ },
+ {
+   "Country": " Serbia ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Seychelles",
+   "Neighbour": "Comoros,  Glorioso Islands[4][49] (France) (T)[70],  Madagascar,  Mauritius (T),  Tanzania (T)"
+ },
+ {
+   "Country": " Sierra Leone",
+   "Neighbour": " Guinea,  Liberia"
+ },
+ {
+   "Country": " Singapore",
+   "Neighbour": "Indonesia (T),  Malaysia (J) (T)[83]"
+ },
+ {
+   "Country": "Sint Maarten[23] (Netherlands)",
+   "Neighbour": "Saint Barthélemy[14] (France),  Saint Martin[14] (France)"
+ },
+ {
+   "Country": " Slovakia ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Slovenia",
+   "Neighbour": " Croatia,  Italy (T)"
+ },
+ {
+   "Country": " Solomon Islands",
+   "Neighbour": "Australia (T)[30],  New Caledonia[28] (France) (T)[71],  Papua New Guinea (T)[95],  Vanuatu"
+ },
+ {
+   "Country": " Somalia",
+   "Neighbour": " Djibouti,  Kenya,  Yemen"
+ },
+ {
+   "Country": "Somaliland[101]",
+   "Neighbour": " Djibouti,  Somalia,  Yemen"
+ },
+ {
+   "Country": " South Africa",
+   "Neighbour": " Mozambique,  Namibia (T)"
+ },
+ {
+   "Country": "South Georgia and the South Sandwich Islands[5] (United Kingdom)",
+   "Neighbour": ""
+ },
+ {
+   "Country": "South Ossetia[102]",
+   "Neighbour": ""
+ },
+ {
+   "Country": " South Sudan ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Spain",
+   "Neighbour": "Algeria,  France (2) (T),  Gibraltar[5] (United Kingdom) (2),  Italy (T),  Madeira[32] (Portugal) (T),  Morocco (4),  Portugal (2) (T),  Western Sahara[86]"
+ },
+ {
+   "Country": " Sri Lanka",
+   "Neighbour": " India (T),  Maldives (T)"
+ },
+ {
+   "Country": " Sudan",
+   "Neighbour": " Egypt,  Eritrea,  Saudi Arabia"
+ },
+ {
+   "Country": " Suriname",
+   "Neighbour": "French Guiana[18] (France),  Guyana (J)"
+ },
+ {
+   "Country": "Svalbard[56] (Norway)",
+   "Neighbour": "Greenland[37] (Denmark) (T),  Russia[103] (T)"
+ },
+ {
+   "Country": " Sweden",
+   "Neighbour": "Denmark (2) (T),  Estonia (T),  Finland (T),  Germany (T),  Latvia (T),  Lithuania (T),  Norway (T),  Poland (T),  Russia (T)"
+ },
+ {
+   "Country": "  Switzerland ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Syria",
+   "Neighbour": " Cyprus,  Lebanon,  Turkey"
+ },
+ {
+   "Country": " Taiwan",
+   "Neighbour": " People's Republic of China,  Japan,  Philippines"
+ },
+ {
+   "Country": " Tajikistan ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Tanzania",
+   "Neighbour": " Comoros,  Kenya (T),  Mozambique (T),  Seychelles (T)"
+ },
+ {
+   "Country": " Thailand",
+   "Neighbour": "Burma (T),  Cambodia,  India (T),  Indonesia (T),  Malaysia (2) (T),  Vietnam (T)"
+ },
+ {
+   "Country": " Togo",
+   "Neighbour": " Benin,  Ghana"
+ },
+ {
+   "Country": "Tokelau[12] (New Zealand)",
+   "Neighbour": "American Samoa[7] (United States) (T)[13],  Cook Islands[8] (New Zealand),  Kiribati,  Samoa,  Wallis and Futuna[14] (France)"
+ },
+ {
+   "Country": " Tonga",
+   "Neighbour": "American Samoa[7] (United States),  Fiji,  New Zealand,  Niue[10] (New Zealand),  Samoa,  Wallis and Futuna[14] (France) (T)[72]"
+ },
+ {
+   "Country": "Transnistria[104]",
+   "Neighbour": ""
+ },
+ {
+   "Country": "Tromelin Island[4][82] (France)",
+   "Neighbour": " Madagascar,  Mauritius"
+ },
+ {
+   "Country": " Trinidad and Tobago",
+   "Neighbour": "Barbados (J)[33],  Grenada,  Guyana,  Saint Vincent and the Grenadines,  Venezuela (T)"
+ },
+ {
+   "Country": " Tunisia",
+   "Neighbour": "Algeria (T),  Italy (T)[77],  Libya (J) (T)"
+ },
+ {
+   "Country": " Turkey",
+   "Neighbour": " Bulgaria (T),  Cyprus (T),  Egypt,  Georgia (T),  Greece (J),  Romania,  Russia (T),  Syria,  Ukraine (T)"
+ },
+ {
+   "Country": " Turkmenistan",
+   "Neighbour": "Azerbaijan[31],  Iran[31],  Kazakhstan[31]"
+ },
+ {
+   "Country": "Turks and Caicos Islands[5] (United Kingdom)",
+   "Neighbour": "Bahamas,  Dominican Republic (T)[58],  Haiti"
+ },
+ {
+   "Country": " Tuvalu",
+   "Neighbour": "Fiji,  Kiribati,  Wallis and Futuna[14] (France) (T)[73]"
+ },
+ {
+   "Country": " Uganda",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Ukraine",
+   "Neighbour": "Georgia,  Romania (J)[98],  Russia,  Turkey (T)"
+ },
+ {
+   "Country": " United Arab Emirates",
+   "Neighbour": "Iran (2) (T),  Oman (3),  Qatar (T),  Saudi Arabia (T)[100]"
+ },
+ {
+   "Country": "United Kingdom[105]",
+   "Neighbour": "Belgium (T),  Denmark (T),  Faroe Islands[37] (Denmark) (T),  France (J) (T),  Germany (T),  Ireland (2) (T),  Netherlands (T),  Norway (J) (T)"
+ },
+ {
+   "Country": "United Kingdom (plus British overseas territories and Crown dependencies), →including:, → Akrotiri and Dhekelia, → Anguilla, → Bermuda, → British Indian Ocean Territory[36], → British Virgin Islands, → Cayman Islands, → Falkland Islands, → Gibraltar, → Guernsey, → Isle of Man, → Jersey, → Montserrat, → Pitcairn Islands, → Saint Helena, Ascension and Tristan da Cunha, → South Georgia and the South Sandwich Islands, → Turks and Caicos Islands",
+   "Neighbour": "Antigua and Barbuda,  Argentina,  Bahamas,  Belgium (T),  Colombia,  Cuba,  Cyprus (8),  Denmark (T),  Dominican Republic (T)[58],  Egypt,  Faroe Islands[37] (Denmark) (T),  France (3) (T),  French Polynesia[14] (France) (T)[68],  Guadeloupe[18] (France) (J) (T)[15],  Germany (T),  Haiti,  Honduras (T)[42],  Ireland (2) (T),  Jamaica,  Lebanon,  Maldives,  Morocco,  Netherlands (T),  Norway (J) (T),  Puerto Rico[7] (United States) (T)[16],  Saint Kitts and Nevis,  Saint Martin[14] (France) (T)[15],  Spain (2),  United States Virgin Islands[7] (United States) (T)[16],  Venezuela"
+ },
+ {
+   "Country": "United States[106]",
+   "Neighbour": "Bahamas,  Canada (4) (J)[39] (T),  Cuba (T)[54],  Mexico (2) (T),  Russia (T)[99]"
+ },
+ {
+   "Country": " United States (including insular areas), →includes:, → American Samoa, → Baker Island, → Guam, → Howland Island, → Jarvis Island, → Johnston Atoll, → Kingman Reef, → Midway Atoll, → Navassa Island, → Northern Mariana Islands, → Palmyra Atoll, → Puerto Rico, → United States Virgin Islands, → Wake Island",
+   "Neighbour": "Anguilla[5] (United Kingdom) (T)[16],  Bahamas,  British Virgin Islands[5] (United Kingdom) (T)[16],  Canada (4) (J)[39] (T),  Cook Islands[8] (New Zealand) (T)[9],  Cuba (2) (T)[54],  Dominican Republic,  Haiti,  Jamaica,  Japan,  Kiribati (3),  Marshall Islands,  Mexico (2) (T),  Federated States of Micronesia,  Netherlands,  Niue[10] (New Zealand) (T)[11],  Russia (T)[99],  Samoa,  Tokelau[12] (New Zealand) (T)[13],  Tonga,  Venezuela (T)[97]"
+ },
+ {
+   "Country": "United States Virgin Islands[7] (United States)",
+   "Neighbour": "Anguilla[5] (United Kingdom) (T)[16],  British Virgin Islands[5] (United Kingdom) (T)[16],  Netherlands,  Venezuela (T)[97]"
+ },
+ {
+   "Country": " Uruguay",
+   "Neighbour": " Argentina (T),  Brazil (T)"
+ },
+ {
+   "Country": " Uzbekistan ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Vanuatu",
+   "Neighbour": "Fiji,  New Caledonia[28] (France),  Solomon Islands"
+ },
+ {
+   "Country": "  Vatican City ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Venezuela",
+   "Neighbour": "Aruba[23] (Netherlands) (T)[24],  Colombia,  Curaçao[23] (Netherlands) (T)[24],  Dominica,  Dominican Republic (T),  Guadeloupe[18] (France) (T),  Guyana,  Martinique[18] (France) (T),  Montserrat[5] (United Kingdom),  Puerto Rico[7] (United States) (T)[97],  Saint Kitts and Nevis,  Saint Lucia,  Saint Vincent and the Grenadines,  Trinidad and Tobago (T),  United States Virgin Islands[7] (United States) (T)[97]"
+ },
+ {
+   "Country": " Vietnam",
+   "Neighbour": " Cambodia,  People's Republic of China (T),  Indonesia (T),  Malaysia,  Philippines,  Thailand (T)"
+ },
+ {
+   "Country": "Wake Island[85] (United States)",
+   "Neighbour": " Marshall Islands"
+ },
+ {
+   "Country": "Wallis and Futuna[14] (France)",
+   "Neighbour": "Fiji (T)[63],  Samoa,  Tokelau[12] (New Zealand),  Tonga (T)[72],  Tuvalu (T)[73]"
+ },
+ {
+   "Country": "Western Sahara[86]",
+   "Neighbour": "Mauritania (T)[87],  Morocco,  Spain"
+ },
+ {
+   "Country": " Yemen",
+   "Neighbour": "Djibouti,  Eritrea (J)[62],  Oman (T),  Saudi Arabia (T),  Somalia"
+ },
+ {
+   "Country": " Zambia ",
+   "Neighbour": ""
+ },
+ {
+   "Country": " Zimbabwe ",
+   "Neighbour": ""
+ }
+]

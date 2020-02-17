@@ -21,20 +21,38 @@
        <input type ="text" v-model="data[1].val"/>
        <input type ="text" v-model="data[0].val"/>
 
+
+
       <svg :height="svgHeight" :width="svgWidth">
         
-        <rect v-for="(element, index) in data" 
-        :height ="element.val*40"
-        :width="30"
-        :x="index*30" 
-        :y="svgHeight-element.val*30" 
-        />
+        <g v-for="(element, index) in data">
+            <rect  
+            :height ="svgHeight-scale.y(element.val)"
+            :width="scale.x.bandwidth()-100"
+            :x="scale.x(element.name)" 
+            :y="scale.y(element.val)" 
+            />
+            
+            <text 
+            :x="index*30" 
+            :y="svgHeight-element.val*30" >
+            {{element.name}}
+            </text>
+        </g>
+
       </svg>
     </div>
   </div>
   <!-- It’s important that your script is at the bottom of your body,
   because we need the DOM to be ready-->
-  <script src="script.js"></script>
+  <script src="script.js">
+    
+    
+    
+    function loop(){ 'v-for="(element,index) in data';
+    };
+
+  </script>
 </body>
 
 </html>

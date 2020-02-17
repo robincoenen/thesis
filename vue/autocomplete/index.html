@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vue.js Autocomplete</title>
+        <link rel="stylesheet" href="reset.css" type="text/css" />
+        <link rel="stylesheet" href="style.css" type="text/css" />
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    </head>
+    <body>
+        <h1>Find any of the {{stateCount}} US states!</h1>
+
+        <div id="autocomplete">
+            <input type="text" v-on:focus="showStates()" v-on:focusout="hideStates()" data="list" v-model="search" placeholder="Search">
+            <ul v-if = "statesVisible">
+                <li v-for="data in filteredStates">
+                {{data}}
+                </li>
+            </ul>
+        </div>
+
+        <script type="text/javascript" src="script.js"></script>
+    </body>
+</html>

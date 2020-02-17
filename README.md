@@ -136,3 +136,8 @@ Oxford, UK: Oxford University Press, 2018
 ### https://www.onr.navy.mil/en/Science-Technology/Departments/Code-32/All-Programs/Atmosphere-Research-322/arctic-global-prediction
 
 *XMind: ZEN - Trial Version*
+
+
+[## Research Excercise 3](#anchors-in-markdown)
+# Form
+![Mindmap](/form_B2.png)
