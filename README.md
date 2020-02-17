@@ -1,23 +1,13 @@
-## Research Excercise 1
 
-Conley, Heather. *The new ice curtain: Russia's strategic reach to the Arctic*\
-Washington DC: Rowman & Littlefield, 2015.
+# Research 3 - Form
 
-
-Anderson, Alun. *After the ice : life, death, and geopolitics in the new Arctic*\
-New York, NY : Smithsonian Books, 2009.
-
-Le Miere, Christian. *Arctic opening: insecurity and opportunity*\
-London, UK: Routledge, 2014
-
-Beckert, Jens & Bronk, Richard. *Uncertain Futures: Imaginaries, Narratives, and Calculation in the Economy*\
-Oxford, UK: Oxford University Press, 2018
+![Mindmap](/form_B2.jpg)
 
 
-[## Research Excercise 2](#anchors-in-markdown)
 
 
-### Thesis Mindmap a.01
+
+# Research 2 - Thesis Mindmap a.01
 
 ![Mindmap](/final_a.png)
 
@@ -135,9 +125,18 @@ Oxford, UK: Oxford University Press, 2018
 
 ### https://www.onr.navy.mil/en/Science-Technology/Departments/Code-32/All-Programs/Atmosphere-Research-322/arctic-global-prediction
 
-*XMind: ZEN - Trial Version*
+
+# Research 1 - First Literature 
+
+Conley, Heather. *The new ice curtain: Russia's strategic reach to the Arctic*\
+Washington DC: Rowman & Littlefield, 2015.
 
 
-[## Research Excercise 3](#anchors-in-markdown)
-# Form
-![Mindmap](/form_B2.png)
+Anderson, Alun. *After the ice : life, death, and geopolitics in the new Arctic*\
+New York, NY : Smithsonian Books, 2009.
+
+Le Miere, Christian. *Arctic opening: insecurity and opportunity*\
+London, UK: Routledge, 2014
+
+Beckert, Jens & Bronk, Richard. *Uncertain Futures: Imaginaries, Narratives, and Calculation in the Economy*\
+Oxford, UK: Oxford University Press, 2018
