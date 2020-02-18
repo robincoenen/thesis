@@ -1,8 +1,9 @@
 
 # Research 3 - Form
 
-![Mindmap](/form_B2.jpg)
+![System diagram](/form_B2.jpg)
 
+![Wireframes](/wireframe.png)
 
 
 
