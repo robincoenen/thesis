@@ -7,9 +7,9 @@ For hundred of years the ocean was international sea, free to navigate for every
 The dashboard tool takes this transformation of reality by text as a visual metaphor: The interface is divided into two halfs. 
 The left space is reserved for the visualization, which depicts the world which gets shaped by abstract concepts. The user cannot at all interact with the left side,
 and only watch it. The right side is reserved for the textual information and interface interactions. Changing documents, buttons, sliders and other interfaces on the right side, will transform the world on the left side.\
-*Inspiration:*
-Law, Documents, Diplomatic notes.
-\*Mockups:*
+*Inspiration:*\
+Law, Documents, Diplomatic notes.\
+*Mockups:*\
 ![Img1](/distinc_concept_1.png)
 
 
@@ -17,11 +17,10 @@ Law, Documents, Diplomatic notes.
 The second direction is less academic in its approach; its strength is it simplicity and high stilistic style. It furthermore gives me, as a designer, the possibility to take a distinctive position. 
 The context is only provided by questions. The Core of the visualization is a corpus of, say, 100 Question regarding territorial claims at the UN.
 Each question is "answered" by a bold powerful fullscreen visualization. The interaction of the user with each visualization is very limited, restricted and on point.
-Each visualization (and question) cann be seen as one (digital, animated) poster.
-*Inspiration:*
-https://www.lars-mueller-publishers.com/ultimate-atlas
-\*Mockups:*
-
+Each visualization (and question) cann be seen as one (digital, animated) poster.\
+*Inspiration:*\
+https://www.lars-mueller-publishers.com/ultimate-atlas\
+*Mockups:*\
 ![Img1](/distinct_concept_2.png)
 
 # Research 3 - Form
