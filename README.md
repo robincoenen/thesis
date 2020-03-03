@@ -10,11 +10,7 @@ and only watch it. The right side is reserved for the textual information and in
 *Inspiration:*
 Law, Documents, Diplomatic notes.
 \*Mockups:*
-![Img1](/Chapter_1_Screen_ Spatial_Visualization.png)
-![Img1](/Chapter_2_Screen_Schematic_Visualization.png)
-![Img1](/Chapter_2_Screen_Spatial_Visualization.png)
-![Img1](/Chapter_3_Sreen, Specific_Spatial_Visualization.png)
-![Img1](/Chapter_Overview.png)
+![Img1](/distinc_concept_1.png)
 
 
 ### Distinct Design Concept 2: "Bold Questions, Bold Visualizations" 
@@ -26,10 +22,7 @@ Each visualization (and question) cann be seen as one (digital, animated) poster
 https://www.lars-mueller-publishers.com/ultimate-atlas
 \*Mockups:*
 
-![Img1](/Schematic_Representation_former_Colonizer.png)
-![Img1](/Spatial_Representation_EEZ_Zone.png)
-![Img1](/Spatial_Representation_Japans_Claim.png)
-![Img1](/Overview_Questions.png)
+![Img1](/distinct_concept_2.png)
 
 # Research 3 - Form
 
