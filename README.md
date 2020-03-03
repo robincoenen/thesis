@@ -1,4 +1,22 @@
 
+# Research 4 - Prototypign
+### Distinct Design Concept 1: "Text shapes the world" 
+It is fascinating to observe in which short amount of time abstract concepts ( especially laws) shaped the concept of the oceans.
+For hundred of years the ocean was international sea, free to navigate for everyone. The territorial border of the sea was depended on how far a canon was able to shoot 
+(referred as the "cannon shot" rule). After the second world war, with the Law of the Sea, the ocean got more and more divided.
+The dashboard tool takes this transformation of reality by text as a visual metaphor: The interface is divided into two halfs. 
+The left space is reserved for the visualization, which depicts the world which gets shaped by abstract concepts. The user cannot at all interact with the left side,
+and only watch it. The right side is reserved for the textual information and interface interactions. Changing documents, buttons, sliders and other interfaces on the right side, will transform the world on the left side.
+*Inspiration:*
+Law, Documents, Diplomatic notes.
+### Distinct Design Concept 2: "Bold Questions, Bold Visualizations" 
+The second direction is less academic in its approach; its strength is it simplicity and high stilistic style. It furthermore gives me, as a designer, the possibility to take a distinctive position. 
+The context is only provided by questions. The Core of the visualization is a corpus of, say, 100 Question regarding territorial claims at the UN.
+Each question is "answered" by a bold powerful fullscreen visualization. The interaction of the user with each visualization is very limited, restricted and on point.
+Each visualization (and question) cann be seen as one (digital, animated) poster.
+*Inspiration:*
+https://www.lars-mueller-publishers.com/ultimate-atlas
+
 # Research 3 - Form
 
 ![System diagram](/form_B2.jpg)

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <title>D3 geo</title>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+    <style>
+        body {
+        	padding: 0;
+        	margin: 0;
+        }
+        svg {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+        }
+        text {
+            transition: fill-opacity 0.5s;
+            font-size: 12pt;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        d3.json('africa.geo.json').then((geojson) => {
+
+            console.log(geojson);
+
+            let svg = d3.select("body").append("svg")
+
+            var projection = d3.geoEqualEarth() // https://github.com/d3/d3-geo/blob/master/README.md#geoEqualEarth
+
+         	let featureElement = svg.selectAll("path")
+        		.data(geojson.features)
+        		.enter()
+                .append("path")
+                .attr("d", d3.geoPath(projection))
+                .attr("stroke", "black")
+                .attr("fill", "lightgray")
+                .attr("fill-opacity", 0.5)
+                .on('mouseenter', function(d){
+                    console.log(d.properties.name);
+                })
+
+        });
+    </script>
+</body>
