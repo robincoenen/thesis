@@ -6,9 +6,17 @@ For hundred of years the ocean was international sea, free to navigate for every
 (referred as the "cannon shot" rule). After the second world war, with the Law of the Sea, the ocean got more and more divided.
 The dashboard tool takes this transformation of reality by text as a visual metaphor: The interface is divided into two halfs. 
 The left space is reserved for the visualization, which depicts the world which gets shaped by abstract concepts. The user cannot at all interact with the left side,
-and only watch it. The right side is reserved for the textual information and interface interactions. Changing documents, buttons, sliders and other interfaces on the right side, will transform the world on the left side.
+and only watch it. The right side is reserved for the textual information and interface interactions. Changing documents, buttons, sliders and other interfaces on the right side, will transform the world on the left side.\
 *Inspiration:*
 Law, Documents, Diplomatic notes.
+\*Mockups:*
+![Img1](/Chapter_1_Screen_ Spatial_Visualization.png)
+![Img1](/Chapter_2_Screen_Schematic_Visualization.png)
+![Img1](/Chapter_2_Screen_Spatial_Visualization.png)
+![Img1](/Chapter_3_Sreen, Specific_Spatial_Visualization.png)
+![Img1](/Chapter_Overview.png)
+
+
 ### Distinct Design Concept 2: "Bold Questions, Bold Visualizations" 
 The second direction is less academic in its approach; its strength is it simplicity and high stilistic style. It furthermore gives me, as a designer, the possibility to take a distinctive position. 
 The context is only provided by questions. The Core of the visualization is a corpus of, say, 100 Question regarding territorial claims at the UN.
@@ -16,6 +24,12 @@ Each question is "answered" by a bold powerful fullscreen visualization. The int
 Each visualization (and question) cann be seen as one (digital, animated) poster.
 *Inspiration:*
 https://www.lars-mueller-publishers.com/ultimate-atlas
+\*Mockups:*
+
+![Img1](/Schematic_Representation_former_Colonizer.png)
+![Img1](/Spatial_Representation_EEZ_Zone.png)
+![Img1](/Spatial_Representation_Japans_Claim.png)
+![Img1](/Overview_Questions.png)
 
 # Research 3 - Form
 
