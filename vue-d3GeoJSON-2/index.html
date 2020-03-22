@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vue.js Autocomplete</title>
+        <link rel="stylesheet" href="reset.css" type="text/css" />
+        <link rel="stylesheet" href="style.css" type="text/css" />
+      <script src="https://d3js.org/d3.v5.min.js"></script>
+      <!-- D3 here -->
+      <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+      <!-- and Vue here -->
+    </head>
+    <body>
+        <div id="geojson">
+            <input type="text" v-model="search" :placeholder="filteredStates.length + ` African States`" v-on:focus="showStates()" v-on:focusout="hideStates()" >
+            <aside>
+                {{ filteredStates.length }} match<span v-if="filteredStates.length > 1">es</span>
+            </aside>
+            <ul v-if="statesVisible">
+                <li v-for="state in filteredStates">
+                    <a href="#" v-on:mousedown="complete(state.properties.name)">{{state.properties.name}}</a>
+                </li>
+            </ul>
+            <div v-for="state in filteredStates">
+                <state
+                    :name="state.properties.name">
+                    :features: "state"
+                </state>
+            </div>
+        </div>
+        
+        <script type="text/x-template" id="state-template">
+            <div>
+                <button v-on:click="isSelected=!isSelected">{{ name }}</button>
+                <svg v-bind:class="{ selected: isSelected }">
+                    <path :d="defaultGeoPath">
+                    </path>
+                </svg>
+            </div>
+        </script>
+        <script type="text/javascript" src="script.js"></script>
+    </body>
+</html>

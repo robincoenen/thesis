@@ -1,5 +1,126 @@
 
-# Research 4 - Prototypign
+# Research 5 - Thesis Mindmap a.02
+![Mindmap](/Thesis_c.png)
+
+
+# Thesis Outline Version a.02
+
+### Creation of a digital scenario tool which shows the current maritime claims at the UN in regard of the contintental shelf, their potential effects  as well as their related scientific, diplomatic and  political process.
+
+### Treatment
+
+- The Convention of the Law on the Sea
+
+	- History of maritime Boundaries before the UNCLOS
+	- Description of the different boundaries and their interrelation 
+
+		- Normal/Straight Baselines
+		- 12NM Border
+		- 24 NM Border
+		- 200NM Border (EEZ)
+		- Continental shelf and its relation to the EEZ
+
+	- Article 76, juridicial descriptionn of 
+ a Continental Shelf Claim 
+	- Comments on the "nature" of the UNCLOS
+
+- Creation of a completely new dataset
+
+	- GeoCoordinates of Claims
+
+		- 1. scraping of all 85 claims
+		- 2. extracting geocodes and related data
+
+			- Point ID
+			- Latitude
+			- Longitude
+			- Distance from previous point
+			- Article 76 invoked
+
+		- 3. Data Wrangling in Qgis to connnect points and create shapes
+
+	- Diplomatic Process of each Claim
+
+		- Timeline: Date of Claim Submission and related Diplomatic notes of Maritime Neighbours
+
+- Research Questions
+
+	- Convention on the Law of the Sea
+
+		- Does the UNCLOS create  an Extractive Imaginary?
+
+	- Metadata
+
+		- How much claims in regard of the continental shelf are submitted?
+		- What is the timeline of continental shelf claims?
+		- Which states have advantages of the UNCLOS (coast states) and which not (land-locked states)?
+		- Does the UNCLOS aggregrate or counter existing inequalities between countries?
+
+	- Area Comparism
+
+		- Which country is the one with the biggest/smallest EEZ area?
+		- How big is the EEZ area compared to the country size?
+		- How big is the EEZ area with potential accepted claim?
+		- How do former colonizer still profit from their former colonies?
+
+	- Diplomatic Process
+
+		- Who are the stakeholders in each claim?
+
+	- Cross referencing with other Datasets
+
+		- Trading Routes
+		- Mineral Resources
+
+	- Semiotic
+	- Case Study: General Debate
+
+		- How are maritime claims mentioned in the General Debate by respective Countries?
+
+	- Case Study: Arctic
+	- Case Study: South China Sea
+	- Case Study: France islands
+
+### Data Sources
+
+- 85 Claims in regard of the continental shelf
+(executive summary and diplomatic notes
+
+	- https://www.un.org/Depts/los/clcs_new/commission_submissions.htm
+
+- Country Sizes
+
+	- https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area
+
+- Maritime Neighbours
+
+	- https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_maritime_boundaries
+
+- Convention on the Law of the Sea
+
+	- https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+
+### References
+
+- Research Paper
+
+	- 01_Trade and Territorial Conflict: International Borders as Institutions
+	- 02_Ocean Floor Grab: International Law and the Making of an Extractive Imaginary
+	- 03_Methods of Maritime Outer Limits Delimitation
+	- 05_Bones of Contention:
+Comparing Territorial, Maritime, and River Issues
+
+	- 06_Maritime Boundary Disputes in the East and South China Seas
+	- 07_CHINA, WESTERN COLONIALISM AND THE UN CONVENTION ON THE LAW OF THE SEA (UNCLOS)
+	- 08_Peaceful Use of the Sea and Military Intelligence Gathering in the EEZ
+
+- Miscellanous
+
+	- 04_table_summary_of_claims
+
+*XMind: ZEN - Trial Version*
+
+# Research 4 - Prototyping
 ### Distinct Design Concept 1: "Text shapes the world" 
 It is fascinating to observe in which short amount of time abstract concepts ( especially laws) shaped the concept of the oceans.
 For hundred of years the ocean was international sea, free to navigate for everyone. The territorial border of the sea was depended on how far a canon was able to shoot 
