@@ -1,6 +1,6 @@
 
 # Research 7 - Wireframes Update, Data Pipeline
-![Mindmap](/data_v1.jpg)
+![Mindmap](/Data_v1.jpg)
 
 # Research 6 - Wireframes Update, 01.04.2020
 ![Mindmap](/wireframe_v_2.png)
