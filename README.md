@@ -1,3 +1,5 @@
+# Research 8 - Interplay between Data and Viz
+![Mindmap](/Dossier_V1_data_viz.jpg)
 
 # Research 7 - Wireframes Update, Data Pipeline, Datastructure
 ![Mindmap](/Data_v1.jpg)
