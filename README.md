@@ -1,3 +1,19 @@
+# Research 8 - Visual design iteration v3
+See Wireframes (Research 7 for full "storyboard")
+Slide Example a
+![slide1](/slide1.jpg)
+Slide Example a with collapsed info text
+![slide1](/slide2_collapsed.jpg)
+Slide Example b with collapsed info text
+![slide1](/slide3.jpg)
+Slide Example c with collapsed info text
+![slide1](/slide4.jpg)
+Dashboard as final chapter visual with interactive map which contains all claims and timeline of claims
+![slide1](/dashboard.jpg)
+
+
+
+
 # Research 8 - Interplay between Data and Viz
 ![Mindmap](/Dossier_V1_data_viz.jpg)
 
