@@ -1,4 +1,8 @@
-# Research 8 - Visual design iteration v3
+# Research 8.2 - Interplay between Data and Viz update
+![slide1](/Dossier_V2_data_viz25.jpg)
+
+
+# Research 9 - Visual design iteration v3
 See Wireframes (Research 7 for full "storyboard")
 Slide Example a
 ![slide1](/slide1.jpg)
