@@ -1,18 +1,20 @@
 # Research 8.2 - Interplay between Data and Viz update
 ![slide1](/Dossier_V2_data_viz25.jpg)
+Shoulder look: 50 claims of 85, WIP in QGIS
+![slide1](/claims.png)
 
 
 # Research 9 - Visual design iteration v3
 See Wireframes (Research 7 for full "storyboard")
-Slide Example a
+**Slide** Example a
 ![slide1](/slide1.jpg)
-Slide Example a with collapsed info text
+**Slide** Example a with collapsed info text
 ![slide1](/slide2_collapsed.jpg)
-Slide Example b with collapsed info text
+**Slide** Example b 
 ![slide1](/slide3.jpg)
-Slide Example c with collapsed info text
+**Slide** Example c 
 ![slide1](/slide4.jpg)
-Dashboard as final chapter visual with interactive map which contains all claims and timeline of claims
+**Dashboard** as final chapter conclusion visual with interactive map which contains all claims and timeline of claims
 ![slide1](/dashboard.jpg)
 
 
