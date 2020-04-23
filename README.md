@@ -1,3 +1,7 @@
+# Research 8.3 - User Navigation
+![slide1](/user_navi.png)
+
+
 # Research 8.2 - Interplay between Data and Viz update
 ![slide1](/Dossier_V2_data_viz25.jpg)
 Shoulder look: 50 claims of 85, WIP in QGIS
